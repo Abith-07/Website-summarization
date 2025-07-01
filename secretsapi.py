@@ -1,0 +1,1 @@
+mistral_API = "23OVkS5sGmIAjjLScvO1roXaVw7Zdlty"
